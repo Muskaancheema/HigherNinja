@@ -1,0 +1,4 @@
+// REGISTER: http://localhost:8000/api/v1/user/register
+// LOGIN :http://localhost:8000/api/v1/user/login
+// UPDATE : http://localhost:8000/api/v1/user/profile/update
+// LOGOUT : http://localhost:8000/api/v1/user/logout
